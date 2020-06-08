@@ -1,0 +1,11 @@
+var firebaseConfig = {
+    apiKey: "AIzaSyDaMzYKR4VLqcidFItn-6JJ6rRZX26MjoA",
+    authDomain: "crwn-db-fe469.firebaseapp.com",
+    databaseURL: "https://crwn-db-fe469.firebaseio.com",
+    projectId: "crwn-db-fe469",
+    storageBucket: "crwn-db-fe469.appspot.com",
+    messagingSenderId: "338916683860",
+    appId: "1:338916683860:web:b16bb67478b3c58d953dc1",
+    measurementId: "G-EVMT8ZL97D"
+  };
+  
